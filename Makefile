@@ -6,7 +6,7 @@ PY_TEST = $(VENV)/bin/py.test
 .PHONY: run test clean build
 
 run: build
-	$(PYTHON) main.py
+	$(PYTHON) -m munseedict
 
 test: build
 	$(PY_TEST) tests
