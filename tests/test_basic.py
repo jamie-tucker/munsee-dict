@@ -1,6 +1,6 @@
 import unittest
 
-from context import core
+from munseedict import core
 
 class BasicTestSuite(unittest.TestCase):
     """Basic test cases."""
