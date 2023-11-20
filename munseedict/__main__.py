@@ -1,3 +1,3 @@
-from . import core
+from munseedict import core
 
 core.main()
