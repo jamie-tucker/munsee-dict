@@ -1,12 +1,12 @@
 # munsee-dict
 
-## Requirements
+## Running
 
-```pip install -r requirements.txt ```
+```make run```
 
 ## Testing
 
-```py.test tests```
+```make test```
 
 ## License
 Copyright (c) 2023 Sreeniketh Vogoti & Jamie Tucker under the [MIT License](LICENSE)
