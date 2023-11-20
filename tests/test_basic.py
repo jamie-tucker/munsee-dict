@@ -7,6 +7,3 @@ class BasicTestSuite(unittest.TestCase):
 
     def test_one(self):
         assert core.test() == 1
-
-if __name__ == '__main__':
-    unittest.main()
