@@ -165,3 +165,5 @@ data/output/*
 
 # vscode
 .vscode/
+
+.DS_Store

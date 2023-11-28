@@ -1,7 +1,7 @@
-from .utils import read
+from munseedict import utils
 
 def test(num):
-  return num + read()
+  return num + utils.read()
 
 def main():
   print("run the program")
